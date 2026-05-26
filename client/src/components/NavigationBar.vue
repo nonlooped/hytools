@@ -9,7 +9,7 @@ const pages = [
 	{ title: "Home", path: "/" },
 	{ title: "About", path: "/about" },
 	{ title: "Auctions", path: "/auctions" },
-	{ title: "Github", path: "https://github.com/unloopedmido/hytools", external: true },
+	{ title: "Github", path: "https://github.com/nonlooped/hytools", external: true },
 ]
 
 const mobileMenu = ref(false)

@@ -26,7 +26,7 @@ HyTools is a lightweight full-stack utility for Hypixel Skyblock, built with Exp
 1. Clone the repo:
 
    ```sh
-   git clone https://github.com/unloopedmido/hytools.git
+   git clone https://github.com/nonlooped/hytools.git
    cd hytools
    ```
 
@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made by [Looped](https://github.com/unloopedmido) ❤️
+Made by [Looped](https://github.com/nonlooped) ❤️
